@@ -56,13 +56,15 @@ The dataset used in this project contains GDP values for 197 countries from 2020
 
 #### Structure of the dataset:
 
-Columns:
+##### Columns:
 
 Country – Name of the country.
 
-2020, 2021, 2022, 2023, 2024, 2025 – GDP values in millions of USD for each year.
+Year – 2020, 2021, 2022, 2023, 2024, 2025 
 
-Continent column (added via mapping) to group countries by region.
+GDP – values in millions of USD for each year.
+
+Continent – column (added via mapping) to group countries by region.
 
 Rows: Each row represents a single country’s GDP across the six years.
 
@@ -122,7 +124,7 @@ Mapping to continents enables analysis at both country and regional levels, whic
 
 # Exploratory Data Analysis (EDA)
 
-The EDA phase focuses on understanding global GDP trends, regional contributions, and country-level dynamics from 2020 to 2025. 
+The EDA phase focuses on understanding global GDP trends, regional/continental contributions, and country-level dynamics from 2020 to 2025, aiming to address the project's objectives through data-driven insights and well-structured visualizations.
 
 ### Global Trends:
 How has total global GDP changed from 2020 to 2025?
@@ -193,7 +195,7 @@ __Pandas & NumPy__: Data manipulation and numerical operations.
 
 __Matplotlib & Seaborn__: Data visualization.
 
-__pycountry_convert__: Mapping countries to continents for regional analysis.
+__pycountry_convert__: Function for mapping countries to continents for regional analysis.
 
 #### Documentation & Tutorials:
 
