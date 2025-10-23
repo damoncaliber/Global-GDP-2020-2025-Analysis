@@ -149,6 +149,9 @@ The donut chart highlights the global distribution of GDP by continent, showing 
 
 ![GDP_Across_continets](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP_Across_Continents.png)
 
+###### How is GDP distributed across continents over time?
+![GDP_Trends](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Trends_by_Continent.png)
+
 ###### How do the Top 5 global economies compare to the rest of the world in total GDP between 2020 and 2025?
 ![Top5Vs_Rest_World](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Top5vsRest_of_World.png)
 
