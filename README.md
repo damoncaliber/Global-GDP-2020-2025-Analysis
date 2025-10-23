@@ -127,23 +127,39 @@ Mapping to continents enables analysis at both country and regional levels, whic
 The EDA phase focuses on understanding global GDP trends, regional/continental contributions, and country-level dynamics from 2020 to 2025, aiming to address the project's objectives through data-driven insights and well-structured visualizations.
 
 ### Global Trends:
-How has total global GDP changed from 2020 to 2025?
+###### How has total global GDP changed from 2020 to 2025?
 
-What are the yearly growth rates, and are there periods of acceleration or slowdown?
+![GDP 2020-2025](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Global_Trend.png)
+
+The line plot of global GDP from 2020 to 2025 shows a consistent upward trend, reflecting overall growth in the world economy. This increase is likely driven by several factors, including recovery from the economic slowdowns experienced during the early 2020s, expansion in major economies such as the US, China, and India, and growth in emerging markets that contributed to higher production, trade, and investment levels. Additionally, technological advancements, increased industrial output, and improved service sectors in many countries may have further supported the rise in total global GDP over this period.
+
+###### What are the yearly growth rates, and are there periods of acceleration or slowdown?
+
+![Yearly_GrowthRate](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Global_GrowthRate.png)
 
 ### Regional Contributions:
 
-Countries were grouped by continent to calculate each region’s share of global GDP.
+###### How evenly is GDP distributed across continents — is global wealth concentrated in a few regions or more balanced?
 
-Donut pie charts and bar plots were used to visualize the contribution of continents like Asia, North America, and Europe.
+![GDP_Share_By_Continent](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP_Share_by_Continent.png)
 
-Insights highlighted that Asia dominated global GDP, followed by North America and Europe, while Africa and Oceania contributed smaller shares.
+The donut chart highlights the global distribution of GDP by continent, showing Asia as the leading contributor with 37.9%, followed by North America (30.0%) and Europe (23.7%). These regions dominate global economic activity, while Africa (2.9%), South America (3.7%), and Oceania (1.8%) play smaller roles. When combined with the earlier trends observed in the line plot, it is evident that global economic growth is largely driven by Asia and North America, with emerging markets gradually gaining momentum. This emphasizes both the concentration of wealth in major economies and the potential for growth in underrepresented regions, providing a comprehensive perspective on global economic dynamics.
+
+###### Is the global GDP distribution becoming more balanced or more concentrated over time?
+
+![GDP_Across_continets](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP_Across_Continents.png)
+
+###### How do the Top 5 global economies compare to the rest of the world in total GDP between 2020 and 2025?
+![Top5Vs_Rest_World](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Top5vsRest_of_World.png)
+
 
 #### Country-Level Analysis:
 
-Countries were ranked by GDP for 2020 and 2025 to identify top gainers and losers.
+###### How is global GDP distributed across the top 10 countries in 2025?
+![Top_10_Countries](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Top10.png)
 
-Bar charts and tables were used to showcase countries with the largest rank improvements (e.g., Eritrea, Afghanistan) and declines (e.g., Nigeria, Yemen).
+###### How is global GDP distributed across the bottom 10 countries in 2025?
+![Bottom_10_Countries](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/Bottom10.png)
 
 ### Comparative Insights:
 
